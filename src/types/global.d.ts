@@ -45,5 +45,7 @@ interface IBackendRes<T> {
             id: string;
         }
     }
-
+    interface IFetchAccount{
+            user: IUser
+    }
    }

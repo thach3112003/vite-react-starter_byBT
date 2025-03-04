@@ -6,7 +6,7 @@ interface IAppContext {
     isAuthenticated: boolean;
     setIsAuthenticated: (v: boolean) => void;
     setUser: (v: IUser | null) => void;
-    user: IUser;
+    user: IUser | null;
     isAppLoading: boolean;
     setIsAppLoading: (v: boolean) => void;
 }
