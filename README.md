@@ -5,6 +5,7 @@ https://nodejs.org/download/release/v20.14.0/
 
 Công nghệ, thư viện sử dụng: 
 -SASS, VITE+React, Antd..
+Dependencies: package.json
 
 ## Giới thiệu đồ án: 
 Dự án trang web bán hàng trực tuyến.
